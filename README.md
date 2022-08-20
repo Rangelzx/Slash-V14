@@ -12,7 +12,7 @@
 5. Seja Feliz!
 
 # 🏆 Créditos
-#### [Eu](https://github.com/Onlyzito) por ter feito boa parte das coisas.<br/>
+#### [Eu](https://github.com/Rangelzx) por ter feito boa parte das coisas.<br/>
 #### [DC Ferinha](https://discord.gg/QjxM996mkP) foi onde peguei boa parte dos comandos e schemas. <br/>
 #### [You Tube Ferinha](https://www.youtube.com/c/OFerinha) foi onde aprendi a criar boa parte dos comandos e schemas. <br/>
 
